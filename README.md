@@ -1,10 +1,8 @@
-# Jinrui Li
+# byAsuka
 
 I build tools for learning, memory, and interaction.
 
 Electrical Engineering at UC Irvine. My interests connect perception and cognition with AI, imaging, sound, and physical interfaces.
-
-[Email](mailto:jinruil4@uci.edu)
 
 ## About
 
