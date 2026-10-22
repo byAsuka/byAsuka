@@ -1,6 +1,6 @@
 # Project notes
 
-Two public excerpts are available now: [Persistent Context](https://github.com/byAsuka/persistent-context) and [Oasis · Learning State](https://github.com/byAsuka/oasis-learning-state-demo). The remaining entries below describe past work; their public demos and supporting materials are still being assembled. I plan to add a first selection over the weekend of October 24–25, 2026.
+Two public excerpts are available now: [Persistent Context](https://github.com/byAsuka/persistent-context) and [Oasis · Learning State](https://github.com/byAsuka/oasis-learning-state-demo). The remaining entries below describe projects already listed on my CV. I am organizing their existing materials and plan to post basic demos and supporting documentation this weekend, October 24–25, 2026.
 
 ## Available now
 

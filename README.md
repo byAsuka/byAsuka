@@ -15,7 +15,7 @@ These are selected development excerpts. Each repository explains its current sc
 
 ## Other project notes
 
-[A brief guide to my other projects](project-notes.md) covers aerial reconstruction, physical camera controls, an interactive exhibit, a photography community website, and audiovisual work. These entries are text descriptions for now. I plan to add further demos and supporting materials over October 24–25.
+[A brief guide to my other projects](project-notes.md) covers aerial reconstruction, physical camera controls, an interactive exhibit, a photography community website, and audiovisual work. These are projects already listed on my CV. Their entries are text descriptions for now; I plan to post basic demos and supporting materials for them this weekend, October 24–25.
 
 ## About
 
