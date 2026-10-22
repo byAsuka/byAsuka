@@ -13,6 +13,10 @@ Electrical Engineering at UC Irvine. My interests connect perception and cogniti
 
 These are selected development excerpts. Each repository explains its current scope and my contribution.
 
+## Other project notes
+
+[A brief guide to my other projects](project-notes.md) covers aerial reconstruction, physical camera controls, an interactive exhibit, a photography community website, and audiovisual work. These entries are text descriptions for now. I plan to add further demos and supporting materials over October 24–25.
+
 ## About
 
 Photography, audiovisual production, and piano inform how I think about tools and attention. I've contributed to event media and film, helped operate a photography community of over 1,000 members, contributed to its website, and founded a school photography club.
