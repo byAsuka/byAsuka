@@ -1,22 +1,39 @@
-# byAsuka
+# byAsuka <img src="assets/mark-02.png" height="14" alt="" />
 
-I build tools for learning, memory, and interaction.
-
-Electrical Engineering at UC Irvine. My interests connect perception and cognition with AI, imaging, sound, and physical interfaces.
+I’m exploring how agents build world models from partial observations, revise them with experience, and choose what to observe next.
 
 ## Selected work
 
-| Project | What you can explore |
-| --- | --- |
-| [Persistent Context](https://github.com/byAsuka/persistent-context) | A file-backed context workflow for AI assistants. Public instructions and a synthetic example show how evidence, proposed changes, and verified updates stay distinct. |
-| [Oasis · Learning State](https://github.com/byAsuka/oasis-learning-state-demo) | A runnable TypeScript excerpt from my learning workspace. It records self-assessment and practice evidence separately, with a local demo and its output. |
+### [Persistent Context](https://github.com/byAsuka/persistent-context)
 
-These are selected development excerpts. Each repository explains its current scope and my contribution.
+A file-backed context workflow for AI assistants, keeping evidence, proposals, and verified updates distinct.
 
-## Other project notes
+<a href="https://github.com/byAsuka/persistent-context">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/persistent-context-example-dark.png" />
+    <img src="assets/persistent-context-example-light.png" width="100%" alt="Key fields from the fictional worked example in the repository, not an executed transaction. update-proposal.json: status draft, authorization null, write_performed false. approved-result.json, an illustrative post-approval state: target_state.status completed, actual_write_performed_by_this_repository false." />
+  </picture>
+</a>
 
-[A brief guide to my other projects](project-notes.md) covers aerial reconstruction, physical camera controls, an interactive exhibit, a photography community website, and audiovisual work. These are projects already listed on my CV. Their entries are text descriptions for now; I plan to post basic demos and supporting materials for them this weekend, October 24–25.
+<sub>Public protocol excerpt · synthetic example</sub>
 
-## About
+### [Oasis · Learning State](https://github.com/byAsuka/oasis-learning-state-demo)
 
-Photography, audiovisual production, and piano inform how I think about tools and attention. I've contributed to event media and film, helped operate a photography community of over 1,000 members, contributed to its website, and founded a school photography club.
+A runnable TypeScript excerpt that keeps learner self-assessment and practice evidence as separate records.
+
+<a href="https://github.com/byAsuka/oasis-learning-state-demo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/oasis-demo-output-dark.png" />
+    <img src="assets/oasis-demo-output-light.png" width="100%" alt="Two lines from the recorded output of the component demo demo.mjs, using synthetic data: learnerSelfAssessment is checked while practiceEvidence records correct false. The demo then reloads the state through a second store instance using the same in-memory adapter; this is not a restart test." />
+  </picture>
+</a>
+
+<sub>Component demo · full workspace in development</sub>
+
+<!-- PROJECT AREA: add a project heading, description, real example and stage as public projects become ready. -->
+
+## Image & sound
+
+Photography, audiovisual production, piano, and physical interfaces.
+
+[Notes & experiments](https://github.com/byAsuka/byAsuka/blob/main/project-notes.md)
